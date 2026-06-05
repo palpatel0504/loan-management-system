@@ -21,7 +21,7 @@ public class Loan {
     private  Long id;
 
     private BigDecimal loanAmount;
-    private Integer tensureMonths;
+    private Integer tenureMonths;
     private Double interestRate;
     private String purpose;
 
